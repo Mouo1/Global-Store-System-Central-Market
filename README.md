@@ -47,5 +47,5 @@ The final step involved creating interactive dashboards using **Power BI**:
 
 ### Project Presentation
 
-For a detailed overview of this project, including visuals and workflows, you will find it in the [project presentation](https://www.canva.com/design/DAGRM45MfHo/uDlO_CXXwXb9-XSFldsf-A/view?utm_content=DAGRM45MfHo&utm_campaign=designshare&utm_medium=link&utm_source=editor).
+For a detailed overview of this project, including visuals and workflows, you will find it in the [Project Presentation](https://www.canva.com/design/DAGRM45MfHo/uDlO_CXXwXb9-XSFldsf-A/view?utm_content=DAGRM45MfHo&utm_campaign=designshare&utm_medium=link&utm_source=editor).
 

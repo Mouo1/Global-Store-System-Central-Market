@@ -9,7 +9,7 @@ The project is structured to fulfill key business requirements through a **data 
 - Accurate sales tracking and order management
 - Comprehensive customer information management
 - Centralized and organized product catalog
-- Efficient inventory and order processing management
+- Efficient order processing management
 - Robust analytical capabilities for sales, customer segmentation, and product performance
 
 ## Project Phases
@@ -45,7 +45,7 @@ The final step involved creating interactive dashboards using **Power BI**:
 
 ## Links
 
-### project presentation
+### Project Presentation
 
 For a detailed overview of this project, including visuals and workflows, you will find it in the [project presentation](https://www.canva.com/design/DAGRM45MfHo/uDlO_CXXwXb9-XSFldsf-A/view?utm_content=DAGRM45MfHo&utm_campaign=designshare&utm_medium=link&utm_source=editor).
 
